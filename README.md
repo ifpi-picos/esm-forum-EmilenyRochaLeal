@@ -34,3 +34,22 @@ Veja neste [link](docs/instalacao.md).
   * [Testes de Integração](docs/testes-integracao.md)
   * [Testes End-to-End](docs/testes-e2e.md)
 * [Integração Contínua](docs/ci.md)
+
+
+---
+
+## O que foi feito
+
+###  1. Criação da pasta `repositorio/`
+
+- `repositorioBD.js`: implementa as funções usando SQL.
+- `repositorioMemoria.js`: simula os dados com uma lista em memória.
+
+###  2. Alteração em `modelo.js`
+
+###  3. Alteração `modelo.test.js`
+
+###  4.Alteração  `listar_perguntas.test.js`
+
+###  4.Comando de teste `npm test`
+
